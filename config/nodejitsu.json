@@ -1,0 +1,1 @@
+{"couchdb": "https://nodejitsu:someproductionpassword@someproductionserver.com:6984/production2/_design/App/_view/balancerInfo"}

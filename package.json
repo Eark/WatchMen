@@ -18,7 +18,8 @@
     "ejs": "0.7.x",
     "express": "2.5.x",
     "redis": "0.7.x",
-    "moment": "1.7.x"
+    "moment": "1.7.x",
+    "request": "*"
   },
   "devDependencies": {
     "assert": "0.4.x",
